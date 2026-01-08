@@ -1,7 +1,7 @@
-**BioDecoder — A Global Platform for Biosignal Classification and Interpretation**
+**BioDecoder — A Universal Platform for Electrophysiological Signal Classification and Biological Interpretation**
 
 **Project Overview**
-The BioDecoder is a global platform designed for decoding and classifying biosignals from any biological source. It enables automated classification and physiological interpretation of electrophysiological signals, allowing researchers to align their experimental data with a unified global standard for cross-laboratory and cross-system comparability.
+BioDecoder is a universal platform dedicated to the analysis and biological interpretation of electrophysiological signals. It performs automated signal classification and deciphers electrophysiological patterns to reveal their underlying biological meaning and mechanisms. This allows researchers to gain actionable biological insights from their data and benchmark it against a universal standard, enabling seamless cross-laboratory and cross-system comparability.
 ________________________________________
 **Key Features**
 •	Global Unified Classification System:
